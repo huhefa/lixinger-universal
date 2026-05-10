@@ -1,0 +1,13 @@
+{
+  "_comment": "理杏仁通用 Skill — Token 配置模板",
+  "_instructions": [
+    "1. 复制此文件，重命名为 config.json（去掉 .template）",
+    "2. 将 token 字段替换为你从理杏仁官网获取的真实 Token",
+    "3. Token 获取地址：https://www.lixinger.com/open/api",
+    "4. 此文件存储在本地，不会上传或共享给其他会员"
+  ],
+  "token": "",
+  "token_expires": "",
+  "base_url": "https://open.lixinger.com/api",
+  "note": "理杏仁开放平台 Token，过期前请至 https://www.lixinger.com/open/api 更新"
+}
